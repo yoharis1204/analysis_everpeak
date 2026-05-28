@@ -16,7 +16,7 @@ Haz clic en el siguiente botón:
 [![Open In Colab](https://colab.research.google.com/drive/1eOQXC3VDMOI06nXbW4pp9851abHaOZnS?usp=drive_link)](URL_DEL_NOTEBOOK_EN_GITHUB)
 https://colab.research.google.com/drive/1eOQXC3VDMOI06nXbW4pp9851abHaOZnS?usp=sharing  1|q
 O:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yoharis1204/analisis_everpeak/blob/main/everpeak_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yoharis1204/analysis_everpeak/blob/main/everpeak_analysis.ipynb)
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
